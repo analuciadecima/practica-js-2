@@ -1,0 +1,2 @@
+/*El verdulero de la esquina necesita una aplicación donde según la fruta que ingrese le diga el precio por kilo*/
+//Realizar una página con un script que calcule el valor de la letra de un número de DNI (Documento nacional de identidad).
